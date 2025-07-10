@@ -202,8 +202,6 @@ Inspirado por várias configurações incríveis da comunidade Neovim.
 
 **Desenvolvido com ❤️ por [Jpdsbarbosa](https://github.com/Jpdsbarbosa)**
 
-*"Vim é um editor que cresce com você!"*
-
 <img width="1899" height="1006" alt="image" src="https://github.com/user-attachments/assets/47ee0b91-b119-4035-b358-fd113ca3ac24" />
 <img width="1892" height="1012" alt="image" src="https://github.com/user-attachments/assets/6b28d892-310a-48d9-8949-e0ba7dc76d48" />
 
